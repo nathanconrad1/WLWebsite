@@ -584,7 +584,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f8fcf9;
+  background-color: #fcfaf2;
 }
 
 .section-title {
@@ -817,6 +817,10 @@ section {
 /*--------------------------------------------------------------
 # Our Clients
 --------------------------------------------------------------*/
+.clients {
+  background-color: #fcfaf2;
+}
+
 .clients .swiper-slide img {
   opacity: 1;
   transition: 0.3s;
@@ -834,7 +838,7 @@ section {
 .clients .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #ffffff;
   opacity: 1;
   border: 1px solid #c3884e;
 }
