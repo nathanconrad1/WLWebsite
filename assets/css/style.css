@@ -146,7 +146,7 @@ h6 {
 }
 
 #header img {
-  height: 70px;
+  height: 5em;
 }
 
 /*--------------------------------------------------------------
@@ -1564,6 +1564,14 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.footer-logo {
+  padding: 0%;
+  max-width: 100%;
+  height: auto;
+  width: 25em; /* You can adjust the width according to your design */
+}
+
 
 /*--------------------------------------------------------------
 # Portfolio Section
